@@ -1,3 +1,5 @@
+Deprecated - Use https://github.com/Ravo92/Patch-2.22-Launcher
+
 # BFMELauncher
 
 Developed with Unreal Engine 4.25
